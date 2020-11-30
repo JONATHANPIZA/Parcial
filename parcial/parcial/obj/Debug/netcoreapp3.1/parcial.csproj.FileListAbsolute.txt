@@ -1,0 +1,13 @@
+C:\Users\Familia Piza\Desktop\parcial\parcial\bin\Debug\netcoreapp3.1\parcial.exe
+C:\Users\Familia Piza\Desktop\parcial\parcial\bin\Debug\netcoreapp3.1\parcial.deps.json
+C:\Users\Familia Piza\Desktop\parcial\parcial\bin\Debug\netcoreapp3.1\parcial.runtimeconfig.json
+C:\Users\Familia Piza\Desktop\parcial\parcial\bin\Debug\netcoreapp3.1\parcial.runtimeconfig.dev.json
+C:\Users\Familia Piza\Desktop\parcial\parcial\bin\Debug\netcoreapp3.1\parcial.dll
+C:\Users\Familia Piza\Desktop\parcial\parcial\bin\Debug\netcoreapp3.1\parcial.pdb
+C:\Users\Familia Piza\Desktop\parcial\parcial\obj\Debug\netcoreapp3.1\parcial.csprojAssemblyReference.cache
+C:\Users\Familia Piza\Desktop\parcial\parcial\obj\Debug\netcoreapp3.1\parcial.AssemblyInfoInputs.cache
+C:\Users\Familia Piza\Desktop\parcial\parcial\obj\Debug\netcoreapp3.1\parcial.AssemblyInfo.cs
+C:\Users\Familia Piza\Desktop\parcial\parcial\obj\Debug\netcoreapp3.1\parcial.csproj.CoreCompileInputs.cache
+C:\Users\Familia Piza\Desktop\parcial\parcial\obj\Debug\netcoreapp3.1\parcial.dll
+C:\Users\Familia Piza\Desktop\parcial\parcial\obj\Debug\netcoreapp3.1\parcial.pdb
+C:\Users\Familia Piza\Desktop\parcial\parcial\obj\Debug\netcoreapp3.1\parcial.genruntimeconfig.cache
